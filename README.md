@@ -25,8 +25,6 @@ A predictive system is created to make predictions on new input data. The input 
 ### Example Prediction
 An example prediction is provided using input data (5, 166, 72, 19, 175, 25.8, 0.587, 51). The standardized input data is predicted, and based on the prediction, it is determined whether the person is diabetic or not.
 
-Feel free to use and modify this code for your diabetes prediction project. If you have any questions or suggestions, please refer to the [Contributing](#contributing) section.
-
 ## Dependencies
 - Python 3.x
 - NumPy
