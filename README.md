@@ -1,6 +1,6 @@
 # Diabetes Prediction
 
-This Python code represents a simple diabetes prediction model using the PIMA Diabetes Dataset. The model is built using the Support Vector Machine (SVM) algorithm. Below is a comprehensive guide on the dataset, data analysis, model training, evaluation, and making predictions.
+ This project uses the PIMA Diabetes Dataset. The model is built using the Support Vector Machine (SVM) algorithm. Below is a comprehensive guide on the dataset, data analysis, model training, evaluation, and making predictions.
 
 ## Data Collection and Analysis
 
