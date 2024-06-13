@@ -12,7 +12,7 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm known fo
 The code begins by loading the PIMA Diabetes Dataset into a pandas DataFrame. It prints the first 5 rows of the dataset, displays the number of rows and columns, and provides statistical measures of the data. The target variable, 'Outcome,' is analyzed, where 0 indicates non-diabetic and 1 indicates diabetic.
 
 ## Data Standardization
-The features are standardized using StandardScaler from scikit-learn. This ensures that all features have a mean of 0 and a standard deviation of 1.
+The features are standardized using StandardScaler from scikit-learn.This ensures that all features have a mean of 0 and a standard deviation of 1.
 
 ## Train Test Split
 The dataset is split into training and testing sets using the train_test_split function. The split is performed with a test size of 20%, maintaining the stratification of the outcome variable.
